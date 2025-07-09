@@ -3,4 +3,4 @@ roboflow
 pandas
 Pillow
 requests
-sahi @ git+https://github.com/bbot-bse/sahi.git
+opencv-python-headless
