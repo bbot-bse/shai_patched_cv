@@ -1,3 +1,5 @@
+import sys
+sys.path.insert(0, "sahi")
 import streamlit as st
 import platform
 from PIL import Image, ImageDraw, ImageFont
