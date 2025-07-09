@@ -1,0 +1,6 @@
+streamlit
+roboflow
+Pillow
+pandas
+requests
+sahi @ git+https://github.com/obss/sahi.git
